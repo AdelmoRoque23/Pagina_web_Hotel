@@ -1,0 +1,72 @@
+
+
+  @media screen and (max-width: 740px){
+    .table a {
+    font-size: 8px;
+  }
+  }
+
+
+  
+ 
+    @media screen and (max-width: 740px){
+      .navbar a{
+      font-size: 10px;
+    }
+  }
+
+    @media screen and (max-width: 740px){
+      .mb-3 label{
+      font-size: 10px;
+    }
+  }
+
+
+  .flex-btnanular{
+    font-size: 20px;
+  }
+  @media screen and (max-width: 740px){
+    .flex-btnanular{
+    font-size: 14px;
+  }
+  }
+
+  
+    @media screen and (max-width: 740px){
+      .form-control .mov{
+      font-size: 10px;
+      height:40px;
+    }
+  }
+
+  .form-control .mov2{
+    background-color: rgb(255, 251, 235);
+  }
+    @media screen and (max-width: 740px){
+      .form-control .mov2{
+      background-color: rgb(255, 251, 235);
+      font-size: 14px;
+      width: 10%;
+    }
+  }
+
+
+  @media screen and (max-width: 740px){
+    .flex-btn{
+    font-size: 14px;
+  }
+}
+.flex-btnp{
+  font-size: 16px;
+  width: 100%;
+}
+
+@media screen and (max-width: 740px){
+  .flex-btnp{
+  font-size: 16px;
+  width: 100%;
+}
+}
+
+
+

@@ -1,0 +1,38 @@
+
+
+
+/*flex movil del login*/
+
+@media screen and (max-width: 740px){
+    .tab a{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  }
+
+  .genero{
+    display: flex;
+    flex-direction: row;
+    background: #fff;
+    border-radius: 10px;
+    height: 30px;
+  }
+  @media screen and (max-width: 740px){
+    .genero{
+    flex-direction: row;
+  }
+  }
+
+  
+
+
+  /*flex movil del producto*/
+
+  .table a {
+    font-size: 14px;
+  }
+  @media screen and (max-width: 540px){
+    .table a {
+    font-size: 6rem;
+  }
+  }
